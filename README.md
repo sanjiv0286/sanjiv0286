@@ -1,6 +1,8 @@
-# 💫 About Me:
-• 🤵‍ Hi I'm Sanjiv Kushwaha (SK)😉. <br>• 🏨 Currently I am pursuing B-tech in Electronics and Communication Department from IIIT Naya Raipur .<br><br>• 🥷 I’m currently learning DSA .<br>• 🏍️ I’m also learn JavaScript , React.js , Css.<br>• 💞️ I’m trying to contribute via research or open source project.<br>• 🤔 I’m also looking for good internship opportunity.<br>• 💬 Ask me about Tech.<br><br>• 📫 How to reach me: sanjiv21101@gmail.com ✉️ .<br>
+[![](https://visitcount.itsvg.in/api?id=sanjiv0286&icon=0&color=6)](https://visitcount.itsvg.in)
 
+# 💫 About Me:
+
+• 🤵‍ Hi I'm Sanjiv Kushwaha (SK)😉. <br>• 🏨 Currently I am pursuing B-tech in Electronics and Communication Department from IIIT Naya Raipur .<br><br>• 🥷 I’m currently learning DSA .<br>• 🏍️ I’m also learn JavaScript , React.js , Css.<br>• 💞️ I’m trying to contribute via research or open source project.<br>• 🤔 I’m also looking for good internship opportunity.<br>• 💬 Ask me about Tech.<br><br>• 📫 How to reach me: sanjiv21101@gmail.com ✉️ .<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanjiv_kushwaha_0286/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjiv-kushwaha-0b1365232/) 
@@ -19,6 +21,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjiv0286&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
